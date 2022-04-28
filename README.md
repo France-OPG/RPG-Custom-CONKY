@@ -1,9 +1,9 @@
-# RPG-Custom-CONKY
+# FOPG-Custom-CONKY
 ## Remplacer le style classique de votre CONKY pour un plus sympa.
 
-✅ RPG-Custom-CONKY fonctionne ✅
+✅ FOPG-Custom-CONKY fonctionne ✅
 
-![RPG-Custom-CONKY](http://respinguy.tk/logo-img-theme/image/RPG-custom-CONKY.png)
+![FOPG-Custom-CONKY](http://respinguy.tk/logo-img-theme/image/RPG-custom-CONKY.png)
 
 ## Installation sur votre système Linux :
 
